@@ -1,0 +1,1 @@
+Source: Basemap packaged NOAA ETOPO1 cartographic relief JPEG and GSHHS land-sea mask. The earth_elevation.png and bathymetry_proxy.png are relative (not measured meter values), generated with explicitly classified land-sea cells. This is NOT NOAA ETOPO 2022 numeric GeoTIFF data.

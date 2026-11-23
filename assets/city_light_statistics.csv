@@ -1,0 +1,475 @@
+city,population,expected_points,actual_points,population_source
+Jakarta,41913860,5571,5571,UN2025_urban_area
+Dhaka,36585479,4863,4863,UN2025_urban_area
+Tokyo,33412512,6570,6570,UN2025_urban_area
+Delhi,30222405,4017,4017,UN2025_urban_area
+Shanghai,29558908,3929,3929,UN2025_urban_area
+Guangzhou,27563372,3664,3664,UN2025_urban_area
+Cairo,25566102,3164,3164,UN2025_urban_area
+Manila,24735305,3288,3288,UN2025_urban_area
+Kolkata,22549738,2997,2997,UN2025_urban_area
+Seoul,22490482,4422,4422,UN2025_urban_area
+Karachi,21422590,2847,2847,UN2025_urban_area
+Mumbai,20203056,2685,2685,UN2025_urban_area
+São Paulo,18949790,1737,1737,UN2025_urban_area
+Bangkok,18180280,2416,2416,UN2025_urban_area
+Mexico City,17734212,1626,1626,UN2025_urban_area
+Beijing,17013303,1560,1560,UN2025_urban_area
+Lahore,15156430,1389,1389,UN2025_urban_area
+Istanbul,15014763,3104,3104,UN2025_urban_area
+Moscow,14524753,3002,3002,UN2025_urban_area
+Ho Chi Minh City,14052713,1868,1868,UN2025_urban_area
+Buenos Aires,14017736,1285,1285,UN2025_urban_area
+New York City,13920148,3439,3439,UN2025_urban_area
+Shenzhen,13878396,1845,1845,UN2025_urban_area
+Bengaluru,13187098,1753,1753,UN2025_urban_area
+Osaka,12964145,2317,2317,UN2025_urban_area
+Lagos,12791699,1173,1173,UN2025_urban_area
+Los Angeles,12740420,1991,1991,UN2025_urban_area
+Chennai,11153205,1482,1482,UN2025_urban_area
+Kinshasa,10943641,1003,1003,UN2025_urban_area
+Bogotá,10624315,974,974,UN2025_urban_area
+Lima,10580241,970,970,UN2025_urban_area
+London,10416420,3256,3256,UN2025_urban_area
+Rio de Janeiro,9500336,871,871,UN2025_urban_area
+Paris,9381921,2933,2933,UN2025_urban_area
+Hyderabad,9190795,1222,1222,UN2025_urban_area
+Tehran,9174964,841,841,UN2025_urban_area
+Taipei,9137000,1214,1214,UN2025_urban_area
+Luanda,9051000,830,830,UN2025_urban_area
+Bandung,8909104,1184,1184,UN2025_urban_area
+Chicago,8864000,2190,2190,UN2025_urban_area
+Chengdu,8813000,1171,1171,UN2025_urban_area
+Kuala Lumpur,8443731,1122,1122,UN2025_urban_area
+Dar es Salaam,7795114,715,715,UN2025_urban_area
+Suzhou,7731101,1028,1028,UN2025_urban_area
+Ahmedabad,7632408,1014,1014,UN2025_urban_area
+Hangzhou,7500208,997,997,UN2025_urban_area
+Xi'an,7444000,682,682,UN2025_urban_area
+Hong Kong,7429000,987,987,UN2025_urban_area
+Wuhan,7363548,979,979,UN2025_urban_area
+Dongguan,7360000,978,978,UN2025_urban_area
+Tianjin,7285342,668,668,UN2025_urban_area
+Alexandria,7266957,899,899,UN2025_urban_area
+Foshan,7236000,962,962,UN2025_urban_area
+Nagoya,7146160,1277,1277,UN2025_urban_area
+Johannesburg,7077175,649,649,UN2025_urban_area
+Chongqing,7071073,940,940,UN2025_urban_area
+Shenyang,6921000,634,634,UN2025_urban_area
+Riyadh,6916417,856,856,UN2025_urban_area
+Surat,6908925,918,918,UN2025_urban_area
+Surabaya,6843503,910,910,UN2025_urban_area
+Pune,6817951,906,906,UN2025_urban_area
+Baghdad,6812000,843,843,UN2025_urban_area
+Khartoum,6809355,624,624,UN2025_urban_area
+Nanjing,6800676,623,623,UN2025_urban_area
+Santiago,6726045,617,617,UN2025_urban_area
+Addis Ababa,6706000,615,615,UN2025_urban_area
+Madrid,6497000,1343,1343,UN2025_urban_area
+Harbin,6115000,1093,1093,UN2025_urban_area
+Houston,6115000,1373,1373,UN2025_urban_area
+Dallas,6099000,1370,1370,UN2025_urban_area
+Toronto,6082000,1366,1366,UN2025_urban_area
+Miami,6036000,1356,1356,UN2025_urban_area
+Belo Horizonte,5972000,547,547,UN2025_urban_area
+Singapore,5792000,770,770,UN2025_urban_area
+Philadelphia,5695000,1279,1279,UN2025_urban_area
+Atlanta,5572000,1251,1251,UN2025_urban_area
+Fukuoka,5551000,992,992,UN2025_urban_area
+Barcelona,5494000,1032,1032,UN2025_urban_area
+Saint Petersburg,5383000,1012,1012,UN2025_urban_area
+Qingdao,5381000,493,493,UN2025_urban_area
+Busan,3300000,590,590,supplemental_approximation
+Daegu,2400000,429,429,supplemental_approximation
+Daejeon,1500000,268,268,supplemental_approximation
+Gwangju,1400000,250,250,supplemental_approximation
+Ulsan,1100000,197,197,supplemental_approximation
+Jeju,500000,89,89,supplemental_approximation
+Sapporo,2000000,358,358,supplemental_approximation
+Sendai,1100000,197,197,supplemental_approximation
+Hiroshima,1200000,214,214,supplemental_approximation
+Okayama,700000,125,125,supplemental_approximation
+Kobe,1500000,268,268,supplemental_approximation
+Kyoto,1500000,268,268,supplemental_approximation
+Niigata,800000,143,143,supplemental_approximation
+Kitakyushu,900000,161,161,supplemental_approximation
+Naha,300000,28,0,supplemental_approximation
+Dalian,4000000,367,367,supplemental_approximation
+Jinan,3000000,275,275,supplemental_approximation
+Changchun,3000000,536,536,supplemental_approximation
+Zhengzhou,4000000,367,367,supplemental_approximation
+Hefei,3000000,275,275,supplemental_approximation
+Changsha,4000000,532,532,supplemental_approximation
+Kunming,3000000,399,399,supplemental_approximation
+Xiamen,3000000,399,399,supplemental_approximation
+Ningbo,3000000,399,399,supplemental_approximation
+Wenzhou,2500000,332,332,supplemental_approximation
+Fuzhou,3000000,399,399,supplemental_approximation
+Nanning,2500000,332,332,supplemental_approximation
+Lanzhou,2600000,238,238,supplemental_approximation
+Urumqi,3000000,275,275,supplemental_approximation
+Shijiazhuang,3000000,275,275,supplemental_approximation
+Yinchuan,1500000,138,138,supplemental_approximation
+Taiyuan,3000000,275,275,supplemental_approximation
+Haikou,1600000,213,213,supplemental_approximation
+Tainan,1200000,160,160,supplemental_approximation
+Kaohsiung,2700000,359,359,supplemental_approximation
+Taichung,2800000,372,372,supplemental_approximation
+Hanoi,4000000,532,532,supplemental_approximation
+Da Nang,1100000,146,146,supplemental_approximation
+Nha Trang,500000,66,66,supplemental_approximation
+Can Tho,900000,120,120,supplemental_approximation
+Phnom Penh,2300000,306,306,supplemental_approximation
+Vientiane,900000,120,120,supplemental_approximation
+Yangon,4500000,598,598,supplemental_approximation
+Mandalay,1200000,160,160,supplemental_approximation
+Medan,2500000,332,332,supplemental_approximation
+Semarang,1700000,226,226,supplemental_approximation
+Makassar,1500000,199,199,supplemental_approximation
+Yogyakarta,1200000,160,160,supplemental_approximation
+Palembang,1600000,213,213,supplemental_approximation
+Denpasar,1000000,133,133,supplemental_approximation
+Cebu City,1000000,133,133,supplemental_approximation
+Davao,1700000,156,156,supplemental_approximation
+Iloilo City,500000,66,66,supplemental_approximation
+Chittagong,3000000,399,399,supplemental_approximation
+Sylhet,700000,93,93,supplemental_approximation
+Islamabad,1100000,101,101,supplemental_approximation
+Rawalpindi,2100000,193,193,supplemental_approximation
+Faisalabad,3400000,452,452,supplemental_approximation
+Peshawar,2000000,183,183,supplemental_approximation
+Multan,1800000,239,239,supplemental_approximation
+Jaipur,3500000,465,465,supplemental_approximation
+Lucknow,3000000,399,399,supplemental_approximation
+Kanpur,2900000,385,385,supplemental_approximation
+Patna,2400000,319,319,supplemental_approximation
+Varanasi,1200000,160,160,supplemental_approximation
+Bhopal,2000000,266,266,supplemental_approximation
+Indore,2100000,279,279,supplemental_approximation
+Nagpur,2400000,319,319,supplemental_approximation
+Kochi,2100000,279,279,supplemental_approximation
+Thiruvananthapuram,1100000,146,146,supplemental_approximation
+Visakhapatnam,1700000,226,226,supplemental_approximation
+Coimbatore,1600000,213,213,supplemental_approximation
+Guwahati,1000000,133,133,supplemental_approximation
+Colombo,2500000,332,332,supplemental_approximation
+Kandy,400000,53,53,supplemental_approximation
+Kathmandu,1500000,199,199,supplemental_approximation
+Dubai,3400000,421,421,supplemental_approximation
+Abu Dhabi,1700000,210,210,supplemental_approximation
+Doha,2400000,297,297,supplemental_approximation
+Kuwait City,2900000,359,359,supplemental_approximation
+Manama,700000,87,87,supplemental_approximation
+Muscat,1500000,138,138,supplemental_approximation
+Mecca,1600000,198,198,supplemental_approximation
+Medina,1400000,173,173,supplemental_approximation
+Jeddah,4500000,557,557,supplemental_approximation
+Tabriz,1700000,156,156,supplemental_approximation
+Isfahan,2000000,248,248,supplemental_approximation
+Shiraz,1600000,198,198,supplemental_approximation
+Mashhad,3000000,275,275,supplemental_approximation
+Ankara,5000000,940,940,supplemental_approximation
+Izmir,3000000,564,564,supplemental_approximation
+Antalya,1200000,226,226,supplemental_approximation
+Bursa,2000000,376,376,supplemental_approximation
+Adana,1800000,338,338,supplemental_approximation
+Baku,2300000,211,211,supplemental_approximation
+Tbilisi,1200000,110,110,supplemental_approximation
+Yerevan,1000000,92,92,supplemental_approximation
+Tashkent,2900000,266,266,supplemental_approximation
+Almaty,2100000,193,193,supplemental_approximation
+Astana,1300000,119,119,supplemental_approximation
+Bishkek,1000000,92,92,supplemental_approximation
+Dushanbe,1000000,92,92,supplemental_approximation
+Kabul,4000000,367,367,supplemental_approximation
+Herat,600000,55,55,supplemental_approximation
+Hamburg,1900000,540,540,supplemental_approximation
+Berlin,3800000,1188,1188,supplemental_approximation
+Munich,1500000,426,426,supplemental_approximation
+Cologne,1100000,313,313,supplemental_approximation
+Frankfurt,800000,227,227,supplemental_approximation
+Stuttgart,700000,199,199,supplemental_approximation
+Düsseldorf,600000,171,171,supplemental_approximation
+Essen,600000,171,171,supplemental_approximation
+Dortmund,600000,171,171,supplemental_approximation
+Leipzig,600000,171,171,supplemental_approximation
+Dresden,600000,171,171,supplemental_approximation
+Amsterdam,1200000,341,341,supplemental_approximation
+Rotterdam,700000,199,199,supplemental_approximation
+The Hague,600000,171,171,supplemental_approximation
+Brussels,1200000,341,341,supplemental_approximation
+Antwerp,600000,171,171,supplemental_approximation
+Vienna,2000000,568,568,supplemental_approximation
+Prague,1300000,369,369,supplemental_approximation
+Budapest,1700000,483,483,supplemental_approximation
+Warsaw,1800000,512,512,supplemental_approximation
+Krakow,800000,227,227,supplemental_approximation
+Wroclaw,700000,199,199,supplemental_approximation
+Gdansk,500000,142,142,supplemental_approximation
+Lodz,700000,199,199,supplemental_approximation
+Zurich,500000,142,142,supplemental_approximation
+Geneva,500000,142,142,supplemental_approximation
+Milan,1400000,398,398,supplemental_approximation
+Rome,2800000,579,579,supplemental_approximation
+Naples,1000000,188,188,supplemental_approximation
+Turin,900000,256,256,supplemental_approximation
+Florence,400000,114,114,supplemental_approximation
+Bologna,400000,114,114,supplemental_approximation
+Venice,300000,85,85,supplemental_approximation
+Genoa,600000,171,171,supplemental_approximation
+Marseille,900000,256,256,supplemental_approximation
+Lyon,500000,142,142,supplemental_approximation
+Toulouse,500000,142,142,supplemental_approximation
+Bordeaux,300000,85,85,supplemental_approximation
+Lille,1000000,284,284,supplemental_approximation
+Nice,400000,114,114,supplemental_approximation
+Nantes,300000,85,85,supplemental_approximation
+Birmingham,1100000,313,313,supplemental_approximation
+Manchester,2700000,767,767,supplemental_approximation
+Liverpool,900000,256,256,supplemental_approximation
+Leeds,800000,227,227,supplemental_approximation
+Glasgow,600000,171,171,supplemental_approximation
+Edinburgh,500000,142,142,supplemental_approximation
+Bristol,500000,142,142,supplemental_approximation
+Cardiff,400000,114,114,supplemental_approximation
+Dublin,1200000,341,341,supplemental_approximation
+Lisbon,2200000,413,413,supplemental_approximation
+Porto,1300000,244,244,supplemental_approximation
+Valencia,800000,150,150,supplemental_approximation
+Seville,700000,132,132,supplemental_approximation
+Zaragoza,700000,132,132,supplemental_approximation
+Bilbao,400000,114,114,supplemental_approximation
+Malaga,600000,113,113,supplemental_approximation
+Athens,3100000,583,583,supplemental_approximation
+Thessaloniki,800000,150,150,supplemental_approximation
+Sofia,1200000,226,226,supplemental_approximation
+Bucharest,1800000,338,338,supplemental_approximation
+Belgrade,1400000,398,398,supplemental_approximation
+Zagreb,800000,227,227,supplemental_approximation
+Ljubljana,300000,85,85,supplemental_approximation
+Sarajevo,300000,85,85,supplemental_approximation
+Skopje,500000,94,94,supplemental_approximation
+Tirana,500000,94,94,supplemental_approximation
+Kyiv,2900000,545,545,supplemental_approximation
+Kharkiv,1400000,263,263,supplemental_approximation
+Odesa,1000000,188,188,supplemental_approximation
+Dnipro,1000000,188,188,supplemental_approximation
+Minsk,2000000,376,376,supplemental_approximation
+Riga,600000,113,113,supplemental_approximation
+Tallinn,400000,75,75,supplemental_approximation
+Vilnius,600000,113,113,supplemental_approximation
+Helsinki,700000,132,132,supplemental_approximation
+Stockholm,1000000,188,188,supplemental_approximation
+Gothenburg,600000,113,113,supplemental_approximation
+Oslo,700000,132,132,supplemental_approximation
+Bergen,300000,56,56,supplemental_approximation
+Copenhagen,700000,199,199,supplemental_approximation
+Aarhus,300000,85,85,supplemental_approximation
+Reykjavik,200000,18,18,supplemental_approximation
+Kazan,1300000,119,119,supplemental_approximation
+Nizhny Novgorod,1200000,110,110,supplemental_approximation
+Yekaterinburg,1500000,138,138,supplemental_approximation
+Novosibirsk,1600000,147,147,supplemental_approximation
+Vladivostok,600000,107,103,supplemental_approximation
+Omsk,1100000,101,101,supplemental_approximation
+Samara,1200000,110,110,supplemental_approximation
+Rostov-on-Don,1100000,207,207,supplemental_approximation
+Volgograd,1000000,92,92,supplemental_approximation
+Perm,1000000,92,92,supplemental_approximation
+Krasnoyarsk,1200000,110,110,supplemental_approximation
+Irkutsk,600000,55,55,supplemental_approximation
+Ufa,1100000,101,101,supplemental_approximation
+Makhachkala,600000,55,55,supplemental_approximation
+Cape Town,4000000,367,367,supplemental_approximation
+Durban,3500000,321,321,supplemental_approximation
+Pretoria,2000000,183,183,supplemental_approximation
+Port Elizabeth,1200000,110,110,supplemental_approximation
+Bloemfontein,500000,46,46,supplemental_approximation
+Nairobi,4500000,413,413,supplemental_approximation
+Mombasa,1200000,110,110,supplemental_approximation
+Kampala,1600000,147,147,supplemental_approximation
+Kigali,1200000,110,110,supplemental_approximation
+Bujumbura,600000,55,55,supplemental_approximation
+Juba,500000,46,46,supplemental_approximation
+Mogadishu,2000000,183,183,supplemental_approximation
+Abidjan,5000000,458,458,supplemental_approximation
+Accra,2400000,220,220,supplemental_approximation
+Kumasi,2000000,183,183,supplemental_approximation
+Dakar,2500000,229,228,supplemental_approximation
+Bamako,2500000,229,229,supplemental_approximation
+Ouagadougou,2000000,183,183,supplemental_approximation
+Conakry,1700000,156,156,supplemental_approximation
+Freetown,1000000,92,92,supplemental_approximation
+Monrovia,1100000,101,100,supplemental_approximation
+Lomé,1500000,138,138,supplemental_approximation
+Cotonou,1000000,92,92,supplemental_approximation
+Niamey,1300000,119,119,supplemental_approximation
+Kano,4000000,367,367,supplemental_approximation
+Ibadan,3600000,330,330,supplemental_approximation
+Port Harcourt,1900000,174,174,supplemental_approximation
+Abuja,2700000,248,248,supplemental_approximation
+Kaduna,1000000,92,92,supplemental_approximation
+Benin City,1500000,138,138,supplemental_approximation
+Douala,3000000,275,275,supplemental_approximation
+Yaoundé,3000000,275,275,supplemental_approximation
+Brazzaville,2000000,183,183,supplemental_approximation
+Lubumbashi,2000000,183,183,supplemental_approximation
+Goma,700000,64,64,supplemental_approximation
+Lilongwe,1200000,110,110,supplemental_approximation
+Blantyre,800000,73,73,supplemental_approximation
+Lusaka,2300000,211,211,supplemental_approximation
+Ndola,500000,46,46,supplemental_approximation
+Harare,1600000,147,147,supplemental_approximation
+Bulawayo,700000,64,64,supplemental_approximation
+Maputo,1100000,101,101,supplemental_approximation
+Beira,500000,46,46,supplemental_approximation
+Antananarivo,1400000,128,128,supplemental_approximation
+Port Louis,200000,18,18,supplemental_approximation
+Giza,1700000,210,210,supplemental_approximation
+Suez,700000,87,87,supplemental_approximation
+Port Said,600000,74,74,supplemental_approximation
+Aswan,300000,37,37,supplemental_approximation
+Luxor,500000,62,62,supplemental_approximation
+Tripoli,1200000,110,110,supplemental_approximation
+Benghazi,600000,55,55,supplemental_approximation
+Tunis,2400000,451,451,supplemental_approximation
+Sfax,300000,28,28,supplemental_approximation
+Algiers,3000000,564,564,supplemental_approximation
+Oran,800000,150,150,supplemental_approximation
+Constantine,500000,94,94,supplemental_approximation
+Casablanca,3400000,312,312,supplemental_approximation
+Rabat,600000,55,55,supplemental_approximation
+Fez,1100000,101,101,supplemental_approximation
+Marrakesh,900000,82,82,supplemental_approximation
+Tangier,1000000,188,188,supplemental_approximation
+Agadir,500000,46,46,supplemental_approximation
+Nouakchott,1200000,110,110,supplemental_approximation
+New Orleans,1300000,292,292,supplemental_approximation
+Washington DC,3000000,674,674,supplemental_approximation
+Baltimore,1500000,337,337,supplemental_approximation
+Boston,4800000,1078,1078,supplemental_approximation
+Detroit,4000000,898,898,supplemental_approximation
+Cleveland,2000000,449,449,supplemental_approximation
+Pittsburgh,2300000,517,517,supplemental_approximation
+Buffalo,1100000,247,247,supplemental_approximation
+Charlotte,2600000,584,584,supplemental_approximation
+Nashville,1900000,427,427,supplemental_approximation
+Tampa,3000000,674,674,supplemental_approximation
+Orlando,2400000,539,539,supplemental_approximation
+Jacksonville,1000000,225,225,supplemental_approximation
+Austin,2000000,449,449,supplemental_approximation
+San Antonio,2200000,494,494,supplemental_approximation
+San Diego,2500000,355,355,supplemental_approximation
+San Francisco,4000000,568,568,supplemental_approximation
+San Jose,1500000,213,213,supplemental_approximation
+Sacramento,2100000,298,298,supplemental_approximation
+Portland,2500000,355,355,supplemental_approximation
+Seattle,3600000,512,512,supplemental_approximation
+Denver,2800000,257,257,supplemental_approximation
+Phoenix,4000000,568,568,supplemental_approximation
+Las Vegas,2300000,327,327,supplemental_approximation
+Minneapolis,3500000,786,786,supplemental_approximation
+St Louis,2400000,539,539,supplemental_approximation
+Kansas City,2100000,472,472,supplemental_approximation
+Oklahoma City,1400000,314,314,supplemental_approximation
+Salt Lake City,1200000,110,110,supplemental_approximation
+Honolulu,900000,82,82,supplemental_approximation
+Anchorage,300000,28,28,supplemental_approximation
+Vancouver,2700000,384,384,supplemental_approximation
+Montreal,3500000,786,786,supplemental_approximation
+Ottawa,1000000,225,225,supplemental_approximation
+Quebec City,800000,180,180,supplemental_approximation
+Calgary,1500000,138,138,supplemental_approximation
+Edmonton,1300000,119,119,supplemental_approximation
+Winnipeg,800000,73,73,supplemental_approximation
+Halifax,400000,37,37,supplemental_approximation
+Victoria,400000,57,1,supplemental_approximation
+Guadalajara,5000000,458,458,supplemental_approximation
+Monterrey,4800000,1078,1078,supplemental_approximation
+Puebla,2400000,220,220,supplemental_approximation
+Tijuana,1900000,270,270,supplemental_approximation
+Juarez,1500000,138,138,supplemental_approximation
+Leon,1700000,156,156,supplemental_approximation
+Querétaro,1100000,101,101,supplemental_approximation
+Toluca,1200000,110,110,supplemental_approximation
+Merida,1000000,92,92,supplemental_approximation
+Veracruz,600000,55,55,supplemental_approximation
+Acapulco,700000,64,64,supplemental_approximation
+Cancun,900000,82,82,supplemental_approximation
+Tegucigalpa,1200000,110,110,supplemental_approximation
+San Pedro Sula,800000,73,73,supplemental_approximation
+Guatemala City,3000000,275,275,supplemental_approximation
+San Salvador,1200000,110,110,supplemental_approximation
+Managua,1100000,101,101,supplemental_approximation
+San Jose Costa Rica,1400000,128,128,supplemental_approximation
+Panama City,1800000,165,165,supplemental_approximation
+Havana,2100000,193,193,supplemental_approximation
+Santo Domingo,2300000,211,211,supplemental_approximation
+Santiago Dominican Republic,700000,64,64,supplemental_approximation
+Port-au-Prince,2400000,220,220,supplemental_approximation
+Kingston,600000,55,55,supplemental_approximation
+Caracas,2500000,229,229,supplemental_approximation
+Maracaibo,1600000,147,147,supplemental_approximation
+Valencia Venezuela,1200000,110,110,supplemental_approximation
+Maracay,800000,73,73,supplemental_approximation
+Medellin,2500000,229,229,supplemental_approximation
+Cali,2300000,211,211,supplemental_approximation
+Barranquilla,1300000,119,119,supplemental_approximation
+Cartagena Colombia,1000000,92,92,supplemental_approximation
+Bucaramanga,600000,55,55,supplemental_approximation
+Quito,1800000,165,165,supplemental_approximation
+Guayaquil,2500000,229,229,supplemental_approximation
+Cuenca Ecuador,600000,55,55,supplemental_approximation
+Arequipa,1000000,92,92,supplemental_approximation
+Trujillo Peru,1000000,92,92,supplemental_approximation
+Chiclayo,500000,46,46,supplemental_approximation
+La Paz,900000,82,82,supplemental_approximation
+Santa Cruz Bolivia,1700000,156,156,supplemental_approximation
+Cochabamba,700000,64,64,supplemental_approximation
+Asuncion,500000,46,46,supplemental_approximation
+Montevideo,1300000,119,119,supplemental_approximation
+Cordoba Argentina,1500000,138,138,supplemental_approximation
+Rosario Argentina,1000000,92,92,supplemental_approximation
+Mendoza Argentina,900000,82,82,supplemental_approximation
+La Plata,700000,64,64,supplemental_approximation
+Mar del Plata,600000,55,55,supplemental_approximation
+Salta,600000,55,55,supplemental_approximation
+Brasilia,3000000,275,275,supplemental_approximation
+Salvador,2900000,266,266,supplemental_approximation
+Fortaleza,2700000,248,248,supplemental_approximation
+Recife,2800000,257,257,supplemental_approximation
+Porto Alegre,1500000,138,138,supplemental_approximation
+Curitiba,1900000,174,174,supplemental_approximation
+Campinas,1200000,110,110,supplemental_approximation
+Manaus,2200000,202,202,supplemental_approximation
+Belém,1500000,138,138,supplemental_approximation
+Goiania,1500000,138,138,supplemental_approximation
+Natal,800000,73,73,supplemental_approximation
+Joao Pessoa,800000,73,73,supplemental_approximation
+Maceio,1000000,92,92,supplemental_approximation
+Vitoria,400000,37,37,supplemental_approximation
+Florianopolis,500000,46,46,supplemental_approximation
+Cuiaba,600000,55,55,supplemental_approximation
+Campo Grande,800000,73,73,supplemental_approximation
+Sao Luis,1000000,92,92,supplemental_approximation
+Teresina,900000,82,82,supplemental_approximation
+Porto Velho,500000,46,46,supplemental_approximation
+Sydney,5100000,468,468,supplemental_approximation
+Melbourne,5000000,458,458,supplemental_approximation
+Brisbane,2600000,238,238,supplemental_approximation
+Perth,2100000,193,193,supplemental_approximation
+Adelaide,1400000,128,128,supplemental_approximation
+Canberra,400000,37,37,supplemental_approximation
+Hobart,200000,18,18,supplemental_approximation
+Darwin,150000,14,14,supplemental_approximation
+Newcastle Australia,400000,37,37,supplemental_approximation
+Gold Coast,600000,55,55,supplemental_approximation
+Auckland,1500000,138,138,supplemental_approximation
+Wellington,400000,37,37,supplemental_approximation
+Christchurch,400000,37,37,supplemental_approximation
+Hamilton New Zealand,200000,18,18,supplemental_approximation
+Dunedin,100000,9,9,supplemental_approximation
+Suva,100000,9,9,supplemental_approximation
+Port Moresby,400000,37,37,supplemental_approximation
+Honiara,80000,7,7,supplemental_approximation
+Noumea,100000,9,9,supplemental_approximation
